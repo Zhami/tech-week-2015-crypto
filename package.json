@@ -1,7 +1,7 @@
 {
-  "name": "Crypto engine for decoding cipher text",
+  "name": "decode",
   "version": "0.1.0",
-  "title": "tech-week-2015-crypto",
+  "title": "Decoder",
   "description": "Crypto engine for decoding cipher text.",
   "main": "./decode.js",
   "engines": {
