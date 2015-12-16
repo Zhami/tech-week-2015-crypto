@@ -1,5 +1,5 @@
 {
-  "name": "decode",
+  "name": "decoder",
   "version": "0.1.0",
   "title": "Decoder",
   "description": "Crypto engine for decoding cipher text.",
