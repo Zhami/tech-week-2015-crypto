@@ -1,0 +1,33 @@
+{
+  "name": "Crypto engine for decoding cipher text",
+  "version": "0.1.0",
+  "title": "tech-week-2015-crypto",
+  "description": "Crypto engine for decoding cipher text.",
+  "main": "./decode.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "homepage": "https://github.com/zhami/Crypto engine for decoding cipher text",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhami/Crypto engine for decoding cipher text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhami/Crypto engine for decoding cipher text/issues"
+  },
+  "licenses": "MIT",
+  "author": {
+    "name": "Stuart Malin",
+    "url": "https://github.com/zhami",
+    "email": "smalin@akamai.com"
+  },
+   "scripts": {},
+    "maintainers": [
+    {
+      "name": "Stuart Malin",
+      "email": "smalin@akamai.com"
+    }
+  ],
+  "directories": {},
+  "dependencies": {}
+}
